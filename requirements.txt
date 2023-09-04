@@ -1,6 +1,6 @@
 # Primary requirements
 matplotlib==2.2.4
-nltk==3.4
+nltk==3.6.6
 pandas==0.21.0
 regex==2017.4.5
 sklearn==0.0
